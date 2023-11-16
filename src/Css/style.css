@@ -25,7 +25,81 @@
     margin-top: 5px;
 
 }
-.frontal{
-    margin-left: 85%;
-    margin-top: -400px;
+.busca{
+    margin-left: 87%;
+    margin-top: -35px;
 }
+.globo1{
+    display: inline-flex;
+    margin-left: 40px;
+    margin-top: 5px;
+    color: rgb(196, 23, 12);
+    text-decoration: none;
+}
+.globo2{
+    display: inline-flex;
+    margin-left: 30px ;
+    color: rgb(30, 76, 154);
+    text-decoration: none;
+}
+.globo3{
+    display: inline-flex;
+    margin-left: 30px;
+    color: rgb(0, 103, 103);
+    text-decoration: none;
+}
+.globo4{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(6, 170, 72);
+}
+.globo5{
+    display: inline-flex;
+    margin-left: 30px;
+    color: rgb(255, 116, 0);
+    text-decoration: none;
+}
+.globo6{
+    display: inline-flex;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(251, 2, 52)
+}
+.globo7{
+    display:inline-flex;
+    margin-left: 60px;
+}
+.globo8{
+    display: inline-flex;
+    margin-left: 60px;
+}
+.globo9{
+    display: inline-flex;
+    margin-left: 60px;
+}
+.globo10{
+    display: inline-flex;
+    margin-left: 60px;
+    
+}
+.globo1:hover{
+    color:lightsalmon;
+}
+.tributo{
+    border: 1px solid black;
+}
+.globo2:hover{
+color: blueviolet;
+}
+.globo3:hover{
+    color: rgb(0, 141, 141);
+}
+.globo4:hover{
+    color: rgb(14, 226, 99);
+}
+.globo5:hover{
+    color: rgb(255, 161, 85);
+}
+
+
